@@ -3,3 +3,8 @@ td {
   display: inline-block;
   width: 20%;
 }
+
+#add-train-btn {
+  background-color:  rgb(123, 42, 123);
+  border-color: rgb(123, 42, 123);
+}
